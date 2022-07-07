@@ -1,0 +1,4 @@
+src/**/*.ts linguist-detectable=true
+src/**/*.ts linguist-vendored=false
+src/**/*.ts linguist-generated=false
+src/**/*.ts linguist-documentation=false
